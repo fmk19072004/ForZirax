@@ -1,0 +1,3 @@
+displayName = Holo Fungus Isolated
+author = HT
+version = 0.1

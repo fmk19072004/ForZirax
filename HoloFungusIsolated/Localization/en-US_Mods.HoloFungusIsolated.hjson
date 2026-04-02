@@ -1,0 +1,17 @@
+Items: {
+	HoloFungusSummon: {
+		DisplayName: Holo Fungus Summon
+		Tooltip: ""
+	}
+}
+
+NPCs: {
+	HoloFungus.DisplayName: Holo Fungus
+	HoloFungusHologram.DisplayName: Holo Fungus Hologram
+	HoloMinion.DisplayName: Holo Minion
+}
+
+Projectiles: {
+	EnergyBlast.DisplayName: Energy Blast
+	GlitchingLaser.DisplayName: Glitching Laser
+}
